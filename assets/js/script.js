@@ -19,7 +19,7 @@ document.querySelector('#sidebar .toggle-sidebar').addEventListener('click', fun
 
 
 var options = {
-    strings: ['Front-End Web Developer', 'Software Developer', 'Competative Coder'],
+    strings: ['Front-End Web Developer', 'Software Developer', 'DevOps Practicing Engineer','Competative Coder'],
     loop: true,
     typeSpeed: 70,
     backSpeed: 10
